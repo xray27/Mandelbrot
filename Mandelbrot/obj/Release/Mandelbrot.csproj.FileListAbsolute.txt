@@ -1,0 +1,10 @@
+G:\code\c#\repos\Mandelbrot\Mandelbrot\bin\Release\Mandelbrot.exe.config
+G:\code\c#\repos\Mandelbrot\Mandelbrot\bin\Release\Mandelbrot.exe
+G:\code\c#\repos\Mandelbrot\Mandelbrot\bin\Release\Mandelbrot.pdb
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.csprojAssemblyReference.cache
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.Mandelbrot.resources
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.Properties.Resources.resources
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.csproj.GenerateResource.cache
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.csproj.CoreCompileInputs.cache
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.exe
+G:\code\c#\repos\Mandelbrot\Mandelbrot\obj\Release\Mandelbrot.pdb
